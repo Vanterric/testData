@@ -1,0 +1,165 @@
+[
+    {
+      "system":"Acuity Revenue Cycle Analytics",
+      "status": true,
+      "note" : "A note was passed in for this payers' status. If no note is passed in, you will see default messages. There are no notes attached to any other systems",
+      "isCustomerPortal" : false
+    },
+    {
+      "system":"Assurance Reimbursement Management",
+      "status": false,
+      "note":"",
+      "isCustomerPortal" : false
+    },
+    {
+      "system":"Ambulatory Claims Manager",
+      "status": null,
+      "note":"",
+      "isCustomerPortal" : false
+    },
+    {
+      "system":"Claims & Denials Advisor",
+      "status": true,
+      "note":"",
+      "isCustomerPortal" : false
+    },
+    {
+      "system":"Clearance Patient Access Suite",
+      "status": true,
+      "note":"",
+      "isCustomerPortal" : false
+    },
+    {
+      "system":"eRx Network",
+      "status": true,
+      "note":"",
+      "isCustomerPortal" : false
+    },
+    {
+      "system":"InterQual Cloud Solutions",
+      "status": true,
+      "note":"",
+      "isCustomerPortal" : false
+    },
+    {
+      "system":"Content Manager",
+      "status": true,
+      "note":"",
+      "isCustomerPortal" : false
+    },
+    {
+      "system":"Patient Access Advisor",
+      "status": true,
+      "note":"",
+      "isCustomerPortal" : false
+    },
+    {
+      "system":"Payment Automation Services",
+      "status": true,
+      "note":"",
+      "isCustomerPortal" : false
+    },
+    {
+      "system":"Payment Distribution Services",
+      "status": true,
+      "note":"",
+      "isCustomerPortal" : false
+    },
+    {
+      "system":"Payment Network Advocation",
+      "status": true,
+      "note":"",
+      "isCustomerPortal" : false
+    },
+    {
+      "system":"MedRx Pharmacy Solutions",
+      "status": true,
+      "note":"",
+      "isCustomerPortal" : false
+    },
+    {
+      "system":"Real-time Eligibility Transactions",
+      "status": true,
+      "note":"",
+      "isCustomerPortal" : false
+    },
+    {
+      "system":"Select Rx",
+      "status": true,
+      "note":"",
+      "isCustomerPortal" : false
+    },
+    {
+      "system":"Settlement Advocate",
+      "status": true,
+      "note":"",
+      "isCustomerPortal" : false
+    },
+    {
+      "system":"SmartPay for Providers",
+      "status": true,
+      "note":"",
+      "isCustomerPortal" : false
+    },
+    {
+      "system":"Support Phones",
+      "status": true,
+      "note":"",
+      "isCustomerPortal" : true
+    }
+    ,
+    {
+      "system":"Download Center",
+      "status": true,
+      "note":"",
+      "isCustomerPortal" : true
+    },
+    {
+      "system":"Enrollment Center",
+      "status": true,
+      "note":"",
+      "isCustomerPortal" : true
+    },
+    {
+      "system":"Connect Center",
+      "status": true,
+      "note":"",
+      "isCustomerPortal" : true
+    },
+    {
+      "system":"Customer Connection",
+      "status": true,
+      "note":"",
+      "isCustomerPortal" : true
+    },
+    {
+      "system":"ON 24/7",
+      "status": true,
+      "note":"",
+      "isCustomerPortal" : true
+    },
+    {
+      "system":"Vision",
+      "status": true,
+      "note":"",
+      "isCustomerPortal" : true
+    },
+    {
+      "system":"ClaimsXten",
+      "status": true,
+      "note":"",
+      "isCustomerPortal" : false
+    },
+    {
+      "system":"ClaimsXten Select",
+      "status": true,
+      "note":"",
+      "isCustomerPortal" : false
+    },
+    {
+      "system":"Payer Connectivity Services",
+      "status": true,
+      "note":"",
+      "isCustomerPortal" : false
+    }
+  ]
